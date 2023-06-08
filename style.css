@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+header {
+    background-color: #AED6F1;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    color: black;
+    padding: 30px 35px;
+    font-size: 30px;
+    text-decoration: none;
+    display: inline block;
+    border-bottom: 5px solid transparent;
+    transition: .08s;
+}
+
+a:hover {
+    background-color: aliceblue;
+}
+
+#banner {
+    background-image: url(https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/315756303_3348446065473836_8534189169321247229_n.jpg?_nc_cat=111&cb=99be929b-59f725be&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHWWFSyO0nrTdYMafAteaI_Gnu2OpCiHFQae7Y6kKIcVE4c4cqW3I-D2WK_I3Lhi3x8z6r4poUAGcpyxzkf-SXc&_nc_ohc=QXrjQrmZDVgAX-YT2cr&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfAIrLdD1S9raw0yoi-_g6O-Dj5v1r9u7g9RrwMBtf3Vdw&oe=6487FAE4);
+    height: 600px;
+background-repeat: cover;
+}
+h1{
+    text-align: center;
+}
